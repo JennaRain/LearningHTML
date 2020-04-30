@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  text-align: left;
+  text-shadow: 10px 10px burlywood;
+}
+
+h3 {
+  border: rgb(90, 20, 55) 4ch;
+  color: paleturquoise;
+}
+
+h4 {
+}
+
+.first-letter {
+  font-size: 26px;
+}
+
+.word:hover {
+  color: violet;
+}
+
+img {
+  width: 300px;
+  border-radius: 30px;
+}
+
+img:hover {
+  width: 310px;
+}
+
+body {
+  text-align: center;
+  font-family: "Special Elite", cursive;
+}
